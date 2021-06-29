@@ -1,0 +1,62 @@
+body {
+     background-image: url(https://construyendociudad.com.co/wp-content/uploads/2020/05/5-1.jpg);
+     background-size: cover;
+}
+
+img {
+    width: 400px;
+}
+
+#thirdDiv {
+    display: flex;
+    justify-content: center;
+    background-color: rgb(70, 70, 70);
+    padding: 50px;
+    border-color: firebrick;
+    border-style: double;
+    border-radius: 20px;
+    color: coral;
+    font-size: 20px;
+    height: 600px;
+    
+}
+
+.divClassUno {
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(70, 70, 70);
+    padding: 25px;
+    border-color: firebrick;
+    border-style: double;
+    border-radius: 20px;
+    color: cyan;
+    font-size: 25px;
+    height: 350px;
+
+}
+
+.divClassDos {
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(70, 70, 70);
+    padding: 50px;
+    border-color: firebrick;
+    border-style: groove;
+    border-radius: 20px;
+    color: cyan;
+    font-size: 25px;
+    height: 150px;
+
+#spanId {
+    color: darkcyan;
+    margin: 50px;
+    font-size: 18px;
+}
+
+h1 {
+    color: rgb(192, 33, 33);
+}
